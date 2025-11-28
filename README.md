@@ -1,4 +1,4 @@
-# BMI-CALCULATOR-FOR-FINAL-PROJECT
+# How to Run this file
 How to install
 1.Download pyhon in microsoft store
 2.Download VScode
