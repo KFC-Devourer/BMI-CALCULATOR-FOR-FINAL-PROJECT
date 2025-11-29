@@ -1,0 +1,10 @@
+วิธีการติดตั้ง (How to install)
+1.ดาวน์โหลด Python ใน Microsoft Store
+2.ดาวน์โหลด VSCode (Visual Studio Code)
+3.ดาวน์โหลดไฟล์ Main.py
+4.เรียกใช้ (รัน) ใน VSCode
+
+ขั้นตอนการใช้งานหลัก(How to use)
+1.ป้อนและคำนวณ BMI
+2.บันทึกข้อมูลประวัติ
+3.ดูตารางประวัติการวัด
